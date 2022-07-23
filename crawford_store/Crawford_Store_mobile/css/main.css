@@ -181,6 +181,32 @@ body {
   opacity: 1;
   text-align: left;
 }
+.v172_6 {
+  width: 55px;
+  height: 55px;
+  background: url("../images/v172_6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1492px;
+  left: 151px;
+  overflow: hidden;
+}
+.v172_7 {
+  width: 55px;
+  height: 55px;
+  background: url("../images/v172_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
 .v172_8 {
   width: 55px;
   height: 55px;
